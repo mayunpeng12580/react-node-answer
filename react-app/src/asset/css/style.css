@@ -1,0 +1,30 @@
+.options {
+    width: 90%;
+    /* height: 400px; */
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.optionsItem {
+    text-align: center;
+    line-height: 4;
+    border-bottom: 1px solid #e8e8e8;
+    border-radius: 10px;;
+}
+
+.green {
+    background-color: lightgreen;
+    color: white;
+}
+
+.red {
+    background-color: orangered;
+    color: white;
+}
+
+h1 {
+    padding: 30px;;
+}
